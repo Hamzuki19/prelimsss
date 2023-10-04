@@ -1,0 +1,32 @@
+h1 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(224, 237, 253);
+    opacity: 50%;
+
+}
+h2 {
+    color: rgb(172, 172, 246);
+}
+table, th, td {
+    border:5px solid rgb(34, 33, 34);
+    color: rgb(0, 0, 0);
+  }
+  h3 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(224, 237, 253);
+    opacity: 50%;
+
+}
+h4 {
+    color: rgb(115, 115, 136);
+}
+table, th, td {
+    border:5px solid rgb(34, 33, 34);
+    color: rgb(0, 0, 0);
+  }
+  h5 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(224, 237, 253);
+    opacity: 50%;
+
+}
